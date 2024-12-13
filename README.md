@@ -10,6 +10,8 @@
 
 4. git push origin main
 
+5. git clone https://github.com/WongKinYiu/yolov7
+
 
 ## create steups
 
@@ -26,4 +28,25 @@
 
 pip install -r requirements.txt
 
+## Workflows
+
+-constants
+
+-config_entity
+
+-artifact_entity
+
+-components
+
+-pipeline
+
+-app.py
+
+
+## AWS Configurations
+
+
+#aws cli download link: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+aws configure
 
